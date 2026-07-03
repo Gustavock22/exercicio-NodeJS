@@ -1,0 +1,4 @@
+[INFO] [02/07/2026, 21:23:18] Sistema iniciado
+[INFO] [02/07/2026, 21:23:18] Usuário acessou sistema
+[ERROR] [02/07/2026, 21:23:18] Falha no login
+[INFO] [02/07/2026, 21:23:18] Sistema encerrado
